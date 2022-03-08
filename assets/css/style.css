@@ -12,3 +12,19 @@ html {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
 }
+
+.container {
+    background: red;
+    height: 100vh;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+.timer-row {
+    display: inline-flex;
+}
