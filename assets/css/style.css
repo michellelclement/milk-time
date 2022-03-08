@@ -34,6 +34,16 @@ h3 {
     margin-right: 10px;
 }
 
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+button.img:hover {
+
+}
+
 .play {
     padding: 30px;
     font-size: 10px;
@@ -43,6 +53,7 @@ img {
     border: 5px solid white;
     border-radius: 100px;
 }
+
 
 .row {
     margin-top: 100px;
