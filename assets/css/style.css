@@ -7,14 +7,26 @@
 html {
     background-color: #75BBFA;
     font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
 }
 
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
 .container {
-    background: red;
     height: 100vh;
     text-align: center;
     margin-left: 10px;
