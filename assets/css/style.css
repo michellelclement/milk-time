@@ -40,10 +40,6 @@ button {
     cursor: pointer;
 }
 
-button.img:hover {
-
-}
-
 .play {
     padding: 30px;
     font-size: 10px;
